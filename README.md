@@ -29,6 +29,6 @@ I like to work on applications during my free time :coffee: .
 
 #### Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joris-truong-35a383131/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joris-truong-35a383131/)&nbsp;&nbsp;&nbsp;
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-25233f?style=for-the-badge&logo=protonmail)](mailto:joris.truong@protonmail.com)
 
