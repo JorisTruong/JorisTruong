@@ -1,6 +1,6 @@
 ### Hello everyone 👋
 
-I am Joris Truong, a Data Professional currently based in Hong Kong :fr: .
+I am Joris Truong, a Data Professional currently based in Hong Kong 🇭🇰.
 
 I like to work on applications during my free time :coffee: .
 
