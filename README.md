@@ -4,6 +4,8 @@ I am Joris Truong, a Data Professional currently based in Hong Kong 🇭🇰.
 
 I like to work on applications during my free time :coffee: .
 
+https://joris-truong.is-a.dev/
+
 #### Programming languages
 
 <p>
